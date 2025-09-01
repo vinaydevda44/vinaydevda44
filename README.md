@@ -17,9 +17,13 @@
 ---
 
 ## 📊 GitHub Stats  
+
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaydevda44&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaydevda44&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinaydevda44&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaydevda44&layout=donut&hide=html,css&theme=radical)  
+
 
 ---
 
