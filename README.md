@@ -18,9 +18,13 @@
 
 ## 📊 GitHub Stats  
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaydevda44&show_icons=true&theme=radical)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinaydevda44&repo=Study-Notion&theme=radical)](https://github.com/vinaydevda44/Study-Notion)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinaydevda44&theme=radical)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinaydevda44&repo=Cricket-Score-Prediction&theme=radical)](https://github.com/vinaydevda44/Cricket-Score-Prediction)  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinaydevda44&repo=Notes-Sharing-App&theme=radical)](https://github.com/vinaydevda44/Notes-Sharing-App)  
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaydevda44&layout=donut&hide=html,css&theme=radical)  
 
