@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Vinay Devda  
 
-<!--
-**vinaydevda44/vinaydevda44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 Currently pursuing **B.Tech** at **Oriental Institute of Science and Technology**  
+- 💻 Passionate about **Web Development | Open Source | DSA**  
+- 🌱 Currently learning **MERN Stack and Next.js**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** C++, JavaScript, SQL  
+- **Frontend:** HTML, CSS, React, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📊 GitHub Stats  
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaydevda44&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaydevda44&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/vinay-devda-8a2091278)  
+- [Portfolio](https://your-portfolio-link.com/)  
+- [Email](vinaydevda986@gmail.com)  
+
+---
+
+⭐️ From [vinaydevda44](https://github.com/vinaydevda44)
